@@ -1,4 +1,4 @@
 # hello-world
 Tutorial repository
 
-Chcialbym cos naisac o sobie ale to tajne.
+Chcialbym cos napisac o sobie ale to tajne.
